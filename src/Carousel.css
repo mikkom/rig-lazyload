@@ -1,9 +1,3 @@
-.image-gallery-slide.center {
-    position: relative;
-    text-align: center;
-}
-
 .image-gallery-slide img {
     width: auto;
-    max-height: 500px;
 }
